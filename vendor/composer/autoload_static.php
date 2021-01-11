@@ -13,7 +13,6 @@ class ComposerStaticInit7b215f50892b199a5f2464603ef3b67c
         'a4a119a56e50fbb293281d9a48007e0e' => __DIR__ . '/..' . '/symfony/polyfill-php80/bootstrap.php',
         '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
         'a1105708a18b76903365ca1c4aa61b02' => __DIR__ . '/..' . '/symfony/translation/Resources/functions.php',
-        '91b19c3a4a3192aa4d1be3c2b4a97a71' => __DIR__ . '/../..' . '/src/helpers.php',
     );
 
     public static $prefixLengthsPsr4 = array (
@@ -24,10 +23,6 @@ class ComposerStaticInit7b215f50892b199a5f2464603ef3b67c
         'W' => 
         array (
             'Webmozart\\Assert\\' => 17,
-        ),
-        'T' => 
-        array (
-            'Text\\' => 5,
         ),
         'S' => 
         array (
@@ -63,10 +58,6 @@ class ComposerStaticInit7b215f50892b199a5f2464603ef3b67c
         'Webmozart\\Assert\\' => 
         array (
             0 => __DIR__ . '/..' . '/webmozart/assert/src',
-        ),
-        'Text\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
         ),
         'Symfony\\Polyfill\\Php80\\' => 
         array (
