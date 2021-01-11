@@ -8,7 +8,7 @@ $lang = [
 ];
 //Aritmetica
 echo "Suma 2 + 2 " . ((int) 2 + (int)2);
-echo "REsta 2 + 2 " . ((int) 2 - (int)2);
+echo "Resta 2 + 2 " . ((int) 2 - (int)2);
 echo ",ultiplica 2 * 2 " . 2 * 2;
 echo "Divide 2 / 2 " . 2 / 2;
 echo "Modulo 2 % 2 " . 2 % 2;
